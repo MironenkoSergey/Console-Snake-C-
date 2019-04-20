@@ -1,0 +1,7 @@
+C:\Users\Sergo\source\repos\SnakeGameConsole\SnakeGameConsole\bin\Debug\SnakeGameConsole.exe.config
+C:\Users\Sergo\source\repos\SnakeGameConsole\SnakeGameConsole\bin\Debug\SnakeGameConsole.exe
+C:\Users\Sergo\source\repos\SnakeGameConsole\SnakeGameConsole\bin\Debug\SnakeGameConsole.pdb
+C:\Users\Sergo\source\repos\SnakeGameConsole\SnakeGameConsole\obj\Debug\SnakeGameConsole.csprojAssemblyReference.cache
+C:\Users\Sergo\source\repos\SnakeGameConsole\SnakeGameConsole\obj\Debug\SnakeGameConsole.csproj.CoreCompileInputs.cache
+C:\Users\Sergo\source\repos\SnakeGameConsole\SnakeGameConsole\obj\Debug\SnakeGameConsole.exe
+C:\Users\Sergo\source\repos\SnakeGameConsole\SnakeGameConsole\obj\Debug\SnakeGameConsole.pdb
